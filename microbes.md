@@ -8,7 +8,7 @@ layout: page
     <figcaption style="font-size: 8px; font-style: italic; color: gray; size: 10;">
       Art Credit: Madeleine Florida.
     </figcaption>
-    </figure>
+  </figure>
 </div>
 
 
