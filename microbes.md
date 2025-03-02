@@ -2,7 +2,6 @@
 Title: "Microbial Ecology Projects"
 layout: page
 ---
-# Microbial Ecology Projects
 
 ## Elk Gut Microbiomes
 
