@@ -17,6 +17,7 @@ These microbial compositional differences might have important impacts on their 
 
 <div style="display: flex; justify-content: space-between;">
   <img src="/assets/fig1_NMDS.png" alt="Image 1" style="width: 45%;">
+   <img src="/assets/Fig 2 Adobe.png" alt="Image 2" style="width: 45%;">
 </div>
 
 
