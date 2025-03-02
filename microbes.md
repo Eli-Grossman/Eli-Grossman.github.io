@@ -1,5 +1,5 @@
 ---
-Title: "Microbial Ecology Projects"
+title: "Microbial Ecology Projects"
 layout: page
 ---
 
