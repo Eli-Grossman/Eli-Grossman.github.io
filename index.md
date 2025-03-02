@@ -1,6 +1,6 @@
 ---
 layout: page
-Title: "About Me"
+title: "About Me"
 ---
 Hi! Welcome to my personal research website. 
 
