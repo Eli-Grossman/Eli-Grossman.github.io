@@ -5,7 +5,7 @@ layout: page
 <div style="display: flex; align-items: center; justify-content: center; ">
   <figure>
     <img src="/assets/Elk_Cartoon_Low_Res_Trimmed.png" alt="Image 2">
-    <figcaption style="font-style: italic; color: gray; size: 10;">Art Credit: Madeleine Florida.</figcaption>
+    <figcaption style="font-size: 8px; font-style: italic; color: gray; size: 10;">Art Credit: Madeleine Florida.</figcaption>
   </figure>
 </div>
 
