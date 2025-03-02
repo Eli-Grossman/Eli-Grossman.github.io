@@ -28,7 +28,7 @@ My undergraduate thesis work in Tyler Kartzinel's [laboratory](http://www.kartzi
 
 In collaboration with Dr. Bethan Littleford-Colquehoun, we showed that migratory elk have distinct microbiomes compared to those who choose a resident strategy. 
 
-These microbial compositional differences might have important impacts on their hosts' physiological status, including feed efficiency, plant toxin resistance, and vitamin production. We therefore suggest the gut microbiome might play an important role in enabling elk migratory behavior. 
+Based on predicted metabolic [profiles](https://www.nature.com/articles/s41587-020-0548-6), these microbial compositional differences might have important impacts on their hosts' physiological status, including feed efficiency, plant toxin resistance, and vitamin production. We therefore suggest the gut microbiome might play an important role in enabling elk migratory behavior. 
 
 <div style="display: flex; align-items: center; justify-content: center; ">
   <img src="/assets/fig1_NMDS.png" alt="Image 1">
@@ -36,7 +36,7 @@ These microbial compositional differences might have important impacts on their 
 
  <img src="/assets/Fig 2 Adobe.png" alt="Image 2">
 
-We also show that a neutral model of community assembly does a decent job of explaining our observed microbial species abudance/occurrence frequency relationships and that metabolic functions associated with taxa deviating from the neutral model expectations are linked to species-species interactions that violate neutral expectations, such as cross-feeding and complex carbohydrate degradation. 
+We also show that a neutral model of community assembly does a decent job of explaining our observed microbial species abudance/occurrence frequency relationships. While these models are not [new](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000298), we are the first to apply predicted metabolic data to show that functions associated with taxa deviating from the neutral model expectations are linked to species-species interactions that violate neutral expectations, such as cross-feeding and complex carbohydrate degradation. 
 
 <div style="display: flex; align-items: center; justify-content: center; ">
   <img src="/assets/fig3a.png" alt="Image 1" style="width: 45%; display: inline-block;">
