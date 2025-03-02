@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "eli-cv.pdf", title: "CV"}
   - {file: "blog.md", title: "Blog"}
   - {file: "fire.md", title: "Fire"}
-  - {file: "microbe.md", title: "Microbes"}
+  - {file: "microbes.md", title: "Microbes"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:Eli-Grossman@users.noreply.github.com"}
