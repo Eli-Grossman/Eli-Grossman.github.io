@@ -3,7 +3,7 @@ Title: "Microbial Ecology Projects"
 layout: page
 ---
 
-#Elk Gut Microbiomes
+# Elk Gut Microbiomes
 
 <Insert Image from Thesis, Insert Image from Elk Migration>
 
@@ -23,3 +23,4 @@ We also show that a neutral model of community assembly does a decent job of exp
 <Fig 3/4>
 
 You can read my thesis here: 
+Code availability here: 
