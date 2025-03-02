@@ -6,7 +6,7 @@ Hi! Welcome to my personal research website.
 
 I am currently a fire effects monitor at Yosemite National Park and a soon-to-be graduate student at Caltech (PhD, Biology and Biological Engineering). 
 
-My present academic focus lies primarily in microbial ecology and fire ecology, though my larger interests span population genetics, organic geochemistry, community ecology, and evolutionary biology.
+My present academic focus lies primarily in microbial ecology and fire ecology, though my larger interests span population genetics, organic geochemistry, community ecology, soil science, and evolutionary biology.
 
 My field work in fire-based land management began in Missouri with Americorps Saint Louis's Emergency Response Team, which then led me to several seasons in New Mexico with the Forest Service and now going on two seasons at beautiful Yosemite National Park!
 
