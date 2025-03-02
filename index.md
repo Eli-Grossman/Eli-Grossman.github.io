@@ -12,5 +12,8 @@ My field work in fire-based land management began in Missouri with Americorps Sa
 
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="/assets/Sequoia Tree DBH (1).jpg" alt="Image 1" style="width: 100%;">
+   <figure>
+    <img src="/assets/Sequoia Tree DBH (1).jpg" alt="Image 1" style="width: 100%;">
+    <figcaption style="font-style: italic; color: gray;">Taking a diameter measurement of a Giant Sequoia while reading a fire effects monitoring plot in the Mariposa Grove, Yosemite NP.</figcaption>
+  </figure>
 </div>
