@@ -15,9 +15,9 @@ In collaboration with Dr. Bethan Littleford-Colquehoun, we showed that migratory
 
 These microbial compositional differences might have important impacts on their hosts' physiological status, including feed efficiency, plant toxin resistance, and vitamin production. We therefore suggest the gut microbiome might play an important role in enabling elk migratory behavior. 
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px; height: 300px;">
-  <img src="/assets/fig1_NMDS.png" alt="Image 1" style="max-height: 100%; width: auto; flex-basis: 50%;">
-  <img src="/assets/Fig 2 Adobe.png" alt="Image 2" style="max-height: 100%; width: auto; flex-basis: 50%;">
+<div style="display: flex; align-items: center; justify-content: center; ">
+  <img src="/assets/fig1_NMDS.png" alt="Image 1">
+  <img src="/assets/Fig 2 Adobe.png" alt="Image 2">
 </div>
 
 We also show that a neutral model of community assembly does a decent job of explaining our observed microbial species abudance/occurrence frequency relationships and that metabolic functions associated with taxa deviating from the neutral model expectations are linked to species-species interactions that violate neutral expectations, such as cross-feeding and complex carbohydrate degradation. 
