@@ -39,7 +39,7 @@ We also show that a neutral model of community assembly does a decent job of exp
 
 <div style="display: flex; align-items: center; justify-content: center; ">
   <img src="/assets/fig3a.png" alt="Image 1" style="width: 45%; display: inline-block;">
-  <img src="/assets/fig4_Low_Res_Trimmed.png" alt="Image 2" style="width: 45%; display: inline-block;">
+  <img src="/assets/Fig4_Low_Res_Trimmed.png" alt="Image 2" style="width: 45%; display: inline-block;">
 </div>
 
 You can read my full thesis here: 
