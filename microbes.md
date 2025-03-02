@@ -3,6 +3,10 @@ title: "Microbial Ecology Projects"
 layout: page
 ---
 
+## Soil Microbial Traits
+
+Coming soon!
+
 ## Elk Gut Microbiomes
 
 <div style="display: flex; align-items: center; justify-content: center; ">
@@ -33,7 +37,10 @@ These microbial compositional differences might have important impacts on their 
 
 We also show that a neutral model of community assembly does a decent job of explaining our observed microbial species abudance/occurrence frequency relationships and that metabolic functions associated with taxa deviating from the neutral model expectations are linked to species-species interactions that violate neutral expectations, such as cross-feeding and complex carbohydrate degradation. 
 
-<Fig 3/4>
+<div style="display: flex; align-items: center; justify-content: center; ">
+  <img src="/assets/fig3a.png" alt="Image 1" style="width: 45%; display: inline-block;">
+  <img src="/assets/fig4_Low_Res_Trimmed.png" alt="Image 2" style="width: 45%; display: inline-block;">
+</div>
 
 You can read my full thesis here: 
 <iframe src="{{ '/assets/EGrossman.pdf' | relative_url }}" width="100%" height="600px" style="border: none;">
