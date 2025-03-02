@@ -16,8 +16,8 @@ In collaboration with Dr. Bethan Littleford-Colquehoun, we showed that migratory
 These microbial compositional differences might have important impacts on their hosts' physiological status, including feed efficiency, plant toxin resistance, and vitamin production. We therefore suggest the gut microbiome might play an important role in enabling elk migratory behavior. 
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="/assets/fig1_NMDS.png" alt="Image 1" style="width: 45%;">
-   <img src="/assets/Fig 2 Adobe.png" alt="Image 2" style="width: 45%;">
+  <img src="/assets/fig1_NMDS.png" alt="Image 1" style="width: 45%; height: auto;">
+  <img src="/assets/Fig 2 Adobe.png" alt="Image 2" style="width: 45%; height: auto;">  
 </div>
 
 
