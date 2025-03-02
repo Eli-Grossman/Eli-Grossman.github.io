@@ -19,7 +19,7 @@ Coming soon!
 </div>
 
 
-My undergraduate thesis work in Tyler Kartzinel's [laboratory] (www.kartzinellab.com) examined how the gut microbiomes of Yellowstone's elk change as they migrate during the spring/summer season.
+My undergraduate thesis work in Tyler Kartzinel's <a href="www.kartzinellab.com" target="_blank"laboratory </a> examined how the gut microbiomes of Yellowstone's elk change as they migrate during the spring/summer season.
 
 <div style="display: flex; align-items: center; justify-content: center; ">
   <img src="/assets/Elk_Mig_Low_Res.png" alt="Image 1">
