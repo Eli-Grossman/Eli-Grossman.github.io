@@ -2,6 +2,10 @@
 Title: "Microbial Ecology Projects"
 layout: page
 ---
+# Microbial Ecology Projects
+
+## Elk Gut Microbiomes
+
 <div style="display: flex; align-items: center; justify-content: center; ">
   <figure>
     <img src="/assets/Elk_Cartoon_Low_Res_Trimmed.png" alt="Image 2">
