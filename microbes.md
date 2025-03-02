@@ -36,7 +36,7 @@ Based on predicted metabolic [profiles](https://www.nature.com/articles/s41587-0
 
  <img src="/assets/Fig 2 Adobe.png" alt="Image 2">
 
-We also show that a neutral model of community assembly does a decent job of explaining our observed microbial species abudance/occurrence frequency relationships. While these models are not [new](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000298), we are the first to apply predicted metabolic data to show that functions associated with taxa deviating from the neutral model expectations are linked to species-species interactions that violate neutral assumptions, such as cross-feeding and complex carbohydrate degradation. 
+We also show that a neutral model of community assembly does a decent job of explaining our observed microbial species abudance/occurrence frequency relationships. While these models are not [new](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000298), we are the first to apply predicted metabolic data to show that functions associated with taxa deviating from neutral model expectations are indeed linked to species-species interactions that violate neutral assumptions, such as cross-feeding and complex carbohydrate degradation. 
 
 <div style="display: flex; align-items: center; justify-content: center; ">
   <img src="/assets/fig3a.png" alt="Image 1" style="width: 45%; display: inline-block;">
