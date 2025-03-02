@@ -20,8 +20,6 @@ These microbial compositional differences might have important impacts on their 
   <img src="/assets/Fig 2 Adobe.png" alt="Image 2" style="max-height: 100%; width: auto; flex-basis: 50%;">
 </div>
 
-  <img src="eli-cv.pdf" type="application/pdf" width="100%" height="100%">
-
 We also show that a neutral model of community assembly does a decent job of explaining our observed microbial species abudance/occurrence frequency relationships and that metabolic functions associated with taxa deviating from the neutral model expectations are linked to species-species interactions that violate neutral expectations, such as cross-feeding and complex carbohydrate degradation. 
 
 <Fig 3/4>
