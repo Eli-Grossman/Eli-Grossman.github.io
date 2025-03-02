@@ -5,13 +5,12 @@ layout: page
 
 # Elk Gut Microbiomes
 
-<Insert Image from Thesis, Insert Image from Elk Migration>
+<img src="/assets/Elk_Cartoon_Low_Res_Trimmed.png" alt="Image 2" style="width: 45%; display: inline-block;>
 
 My undergraduate thesis work in Tyler Kartzinel's laboratory <LINK> examined how the gut microbiomes of Yellowstone's elk change as they migrate during the spring/summer season.
 
 <div style="display: flex; align-items: center; justify-content: center; ">
-  <img src="/assets/Elk_Mig_Low_Res.png" alt="Image 1" style="width: 45%; display: inline-block;">
-  <img src="/assets/Elk_Cartoon_Low_Res_Trimmed.png" alt="Image 2" style="width: 45%; display: inline-block;>
+  <img src="/assets/Elk_Mig_Low_Res.png" alt="Image 1">
 </div>
 
 In collaboration with Dr. Bethan Littleford-Colquehoun, we showed that migratory elk have distinct microbiomes compared to those who choose a resident strategy. 
