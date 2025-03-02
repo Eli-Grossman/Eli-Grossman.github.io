@@ -24,5 +24,9 @@ We also show that a neutral model of community assembly does a decent job of exp
 
 <Fig 3/4>
 
-You can read my thesis here: 
+You can read my full thesis here: 
+<iframe src="{{ '/assets/EGrossman.pdf' | relative_url }}" width="100%" height="600px" style="border: none;">
+</iframe>
+
+
 Code availability here: 
