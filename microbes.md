@@ -19,7 +19,7 @@ Coming soon!
 </div>
 
 
-My undergraduate thesis work in Tyler Kartzinel's laboratory <LINK> examined how the gut microbiomes of Yellowstone's elk change as they migrate during the spring/summer season.
+My undergraduate thesis work in Tyler Kartzinel's [laboratory] (kartzinellab.com) examined how the gut microbiomes of Yellowstone's elk change as they migrate during the spring/summer season.
 
 <div style="display: flex; align-items: center; justify-content: center; ">
   <img src="/assets/Elk_Mig_Low_Res.png" alt="Image 1">
@@ -47,4 +47,4 @@ You can read my full thesis here:
 </iframe>
 
 
-Code availability here: 
+Code availability here: Coming soon, pending final manuscript revision and submission. 
