@@ -6,7 +6,8 @@ layout: page
   <figure>
     <img src="/assets/Elk_Cartoon_Low_Res_Trimmed.png" alt="Image 2">
     <figcaption style="font-size: 8px; font-style: italic; color: gray; size: 10;">
-      Art Credit: Madeleine Florida.</figcaption>
+      Art Credit: Madeleine Florida.
+    </figcaption>
     </figure>
 </div>
 
