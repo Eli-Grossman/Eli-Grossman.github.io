@@ -14,7 +14,7 @@ Here's a sample project I put together playing around with publicly available da
 
 
 ## Cibola National Forest
-I spent two abbreviated fire seasons as a crewmember on the Apache Kid Wilderness Wildland Fire Module based out of the Magdalena Ranger District, Cibola National Forest. Beyond developing my basic wildland firefighting skills, I began training as a fire effects monitor to provide real-time incident fire behavior and effects observations on large managed fires.
+I spent two student fire seasons as a crewmember on the Apache Kid Wilderness Wildland Fire Module based out of the Magdalena Ranger District, Cibola National Forest. Beyond developing my basic wildland firefighting skills, I began training as a fire effects monitor to provide real-time incident fire behavior and effects observations on large managed fires.
 
 Here's a sample FEMO report I helped write on a training assignment: 
 
