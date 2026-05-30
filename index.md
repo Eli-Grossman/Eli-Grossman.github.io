@@ -4,7 +4,7 @@ title: "About Me"
 ---
 Hi! Welcome to my personal research website. 
 
-I am currently a graduate student (PhD, Biology and Biological Engineering) at Caltech in Victoria Orphan's [lab] (https://orphanlab.caltech.edu/). I study microbial ecology - I'm interested in how the trillions of microscopic beings in soil and sediments make a living, evolve, and change in response to their environment. 
+I am currently a graduate student (PhD, Biology and Biological Engineering) at Caltech in Victoria Orphan's [lab](https://orphanlab.caltech.edu/). I study microbial ecology - I'm interested in how the trillions of microscopic beings in soil and sediments make a living, evolve, and change in response to their environment. 
 
 My present academic focus lies primarily in microbial ecology and fire ecology, though my larger interests span population genetics, organic geochemistry, community ecology, soil science, and evolutionary biology.
 
