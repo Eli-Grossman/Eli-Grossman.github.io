@@ -7,9 +7,9 @@ mathjax: true
 ## Yosemite
 I worked as a GS-5 fire effects monitor crewmember on Yosemite Crew 9. Under the supervision of the park fire ecologist, we are a five person team responsible for accomplishing the objectives of Yosemite's fire ecology monitoring program. My first year on the crew, I finished my "Fire Effects Monitor" red card qualification. My second season, I had the opportunity to go out with the US Forest Service's [Fire Behavior Assessment Team](https://www.frames.gov/fbat/home) on assignment to the Dillon fire. 
 
-A sample of our work last year (I led the FX data visualization and analysis):
+Here's a sample project I put together playing around with publicly available datasets on my personal time, but inspired by what we were seeing in the field:
 
-<iframe src="{{ '/assets/Pika_FinalReport_2024_11_01.pdf' | relative_url }}" width="100%" height="600px" style="border: none;">
+<iframe src="{{ '/assets/Notes on a Decade of Remote Sensing Data for YNP - EG260529.pdf' | relative_url }}" width="100%" height="600px" style="border: none;">
 </iframe>
 
 
